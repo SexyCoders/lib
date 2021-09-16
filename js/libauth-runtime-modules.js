@@ -167,14 +167,14 @@ export class AuthSystem
         this.site.domain=window.document.domain;
         this.site.port=window.location.port;
         this.site.parent=null;
-        this.site.home="http://test.uniclient.localhost:8088";
-        this.site.auth_server_domain="http://auth.localhost";
+        this.site.home="https://uniclient.sexycoders.org";
+        this.site.auth_server_domain="https://auth.sexycoders.org";
         this.site.auth_page=this.auth_server_domain+"/login.html"
-        this.site.auth_domain="http://auth.localhost";
+        this.site.auth_domain="https://auth.sexycoders.org";
 
         //oauth2 system info
         this.site.oauth2=new Object();
-        this.site.oauth2.location="http://oauth2.localhost";
+        this.site.oauth2.location="https://oauth2.sexycoders.org";
         this.site.oauth2.token=this.site.oauth2.location+"/token.php";
         this.site.oauth2.validate=this.site.oauth2.location+"/validate.php";
         this.site.auth_libauth=this.auth_domain+"/libauth";
