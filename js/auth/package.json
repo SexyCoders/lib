@@ -1,0 +1,28 @@
+{
+  "name": "@sexycoders/auth",
+  "version": "1.5.0",
+  "description": "Friendly wraper for use with oauth2 or libauth protocols.",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/sexycoders/auth.git"
+  },
+  "keywords": [
+    "oauth2",
+    "libauth",
+    "authentication"
+  ],
+  "author": "Shane",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://gitlab.com/sexycoders/auth/issues"
+  },
+  "homepage": "https://gitlab.com/sexycoders/auth#readme",
+  "dependencies": {
+    "@sexycoders/libauth.js": "^2.0.0",
+    "@sexycoders/oauth2": "^1.0.0"
+  }
+}
