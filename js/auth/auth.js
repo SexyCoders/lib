@@ -1,5 +1,5 @@
-import oauth2 from './oauth2/oauth2.js';
-import libauth from './libauth.js/client/module/libauth.js';
+import {oauth2} from '@sexycoders/oauth2';
+import {libauth} from '@sexycoders/libauth.js';
 
 export class AuthObject
   {
