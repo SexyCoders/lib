@@ -1,0 +1,91 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+0	js/auth/package.json	/^    "oauth2",$/;"	s	array:keywords
+1	js/auth/package.json	/^    "libauth",$/;"	s	array:keywords
+2	js/auth/package.json	/^    "authentication"$/;"	s	array:keywords
+@sexycoders/libauth.js	js/auth/package.json	/^    "@sexycoders\/libauth.js": "^2.0.0",$/;"	s	object:dependencies
+@sexycoders/oauth2	js/auth/package.json	/^    "@sexycoders\/oauth2": "^1.0.0"$/;"	s	object:dependencies
+AnonymousFunction12fea2660100	js/sb-admin-2.js	/^  $("#sidebarToggle, #sidebarToggleTop").on('click', function(e) {$/;"	f
+AnonymousFunction12fea2660200	js/sb-admin-2.js	/^  $(window).resize(function() {$/;"	f
+AnonymousFunction12fea2660300	js/sb-admin-2.js	/^  $('body.fixed-nav .sidebar').on('mousewheel DOMMouseScroll wheel', function(e) {$/;"	f
+AnonymousFunction12fea2660400	js/sb-admin-2.js	/^  $(document).on('scroll', function() {$/;"	f
+AnonymousFunction12fea2660500	js/sb-admin-2.js	/^  $(document).on('click', 'a.scroll-to-top', function(e) {$/;"	f
+AnonymousFunction1d3a7e3c0100	js/libauth-runtime-modules.js	/^            function(response)$/;"	f
+AnonymousFunction1d3a7e3c0200	js/libauth-runtime-modules.js	/^            function(response)$/;"	f
+AnonymousFunction1d3a7e3c0300	js/libauth-runtime-modules.js	/^            function(response)$/;"	f
+AnonymousFunction1d3a7e3c0400	js/libauth-runtime-modules.js	/^        function(response)$/;"	f
+AnonymousFunction22cb5e160100	js/worker.js	/^self.addEventListener("connect", function (e) {$/;"	f
+AnonymousFunction22cb5e160200	js/worker.js	/^    port.addEventListener("message", function (e) {$/;"	f
+AnonymousFunction287890da0100	js/demo/chart-area-demo.js	/^          callback: function(value, index, values) {$/;"	f
+AnonymousFunction287890da0200	js/demo/chart-area-demo.js	/^        label: function(tooltipItem, chart) {$/;"	f
+AnonymousFunction662937160100	js/demo/chart-bar-demo.js	/^          callback: function(value, index, values) {$/;"	f
+AnonymousFunction662937160200	js/demo/chart-bar-demo.js	/^        label: function(tooltipItem, chart) {$/;"	f
+AnonymousFunction83a208f70100	js/demo/datatables-demo.js	/^$(document).ready(function() {$/;"	f
+AnonymousFunctione33d0db80100	js/sb-admin-2.min.js	/^!function(l){"use strict";l("#sidebarToggle, #sidebarToggleTop").on("click",function(e){l("body"/;"	f
+AnonymousFunctione33d0db80200	js/sb-admin-2.min.js	/^!function(l){"use strict";l("#sidebarToggle, #sidebarToggleTop").on("click",function(e){l("body"/;"	f
+AnonymousFunctione33d0db80300	js/sb-admin-2.min.js	/^!function(l){"use strict";l("#sidebarToggle, #sidebarToggleTop").on("click",function(e){l("body"/;"	f
+AnonymousFunctione33d0db80400	js/sb-admin-2.min.js	/^!function(l){"use strict";l("#sidebarToggle, #sidebarToggleTop").on("click",function(e){l("body"/;"	f
+AnonymousFunctione33d0db80500	js/sb-admin-2.min.js	/^!function(l){"use strict";l("#sidebarToggle, #sidebarToggleTop").on("click",function(e){l("body"/;"	f
+AuthObject	js/auth/auth.js	/^export class AuthObject$/;"	c
+AuthSystem	js/libauth-runtime-modules.js	/^export class AuthSystem$/;"	c
+MOVE	js/libauth-runtime-modules.js	/^export function MOVE(location,param,cors_flag)$/;"	f
+POST	js/libauth-runtime-modules.js	/^export function POST(system,post_data)$/;"	f
+Sign	js/libauth-runtime-modules.js	/^export function Sign(data,key)$/;"	f
+author	js/auth/package.json	/^  "author": "Shane",$/;"	s
+broadcast	js/worker.js	/^var broadcast = function(clients, message) {$/;"	f
+bugs	js/auth/package.json	/^  "bugs": {$/;"	o
+callAddFont	utf8_font_for_printer/utf8_font-normal.js	/^var callAddFont = function () {$/;"	c
+clients	js/worker.js	/^var clients = new Array();$/;"	v
+constructor	js/auth/auth.js	/^    constructor(protocol)$/;"	m	class:AuthObject
+constructor	js/auth/libauth.js	/^    constructor()$/;"	m	class:libauth
+constructor	js/auth/oauth2.js	/^    constructor()$/;"	m	class:oauth2
+constructor	js/libauth-runtime-modules.js	/^    constructor()$/;"	m	class:AuthSystem
+constructor	js/libauth-runtime-modules.js	/^    constructor()$/;"	m	class:oauth2
+ctx	js/demo/chart-area-demo.js	/^var ctx = document.getElementById("myAreaChart");$/;"	v
+ctx	js/demo/chart-bar-demo.js	/^var ctx = document.getElementById("myBarChart");$/;"	v
+ctx	js/demo/chart-pie-demo.js	/^var ctx = document.getElementById("myPieChart");$/;"	v
+dependencies	js/auth/package.json	/^  "dependencies": {$/;"	o
+description	js/auth/package.json	/^  "description": "Friendly wraper for use with oauth2 or libauth protocols.",$/;"	s
+font	utf8_font_for_printer/utf8_font-normal.js	/^var font = 'AAEAAAANADAAAwCAT1MvMvsLDL0AAATcAAAAVmNtYXAAnUqYAAAGYAAABDRjdnQgBaQEiAAABTwAAACaZnBn/;"	v
+handshake	js/libauth-runtime-modules.js	/^export function handshake(system)$/;"	f
+homepage	js/auth/package.json	/^  "homepage": "https:\/\/gitlab.com\/sexycoders\/auth#readme",$/;"	s
+init	js/libauth-runtime-modules.js	/^export default function init(){$/;"	f
+keywords	js/auth/package.json	/^  "keywords": [$/;"	a
+libauth	js/auth/libauth.js	/^export class libauth$/;"	c
+license	js/auth/package.json	/^  "license": "GPL-3.0-or-later",$/;"	s
+main	js/auth/package.json	/^  "main": "auth.js",$/;"	s
+myBarChart	js/demo/chart-bar-demo.js	/^var myBarChart = new Chart(ctx, {$/;"	v
+myLineChart	js/demo/chart-area-demo.js	/^var myLineChart = new Chart(ctx, {$/;"	v
+myPieChart	js/demo/chart-pie-demo.js	/^var myPieChart = new Chart(ctx, {$/;"	v
+name	js/auth/package.json	/^  "name": "@sexycoders\/auth",$/;"	s
+number_format	js/demo/chart-area-demo.js	/^function number_format(number, decimals, dec_point, thousands_sep) {$/;"	f
+number_format	js/demo/chart-bar-demo.js	/^function number_format(number, decimals, dec_point, thousands_sep) {$/;"	f
+oauth2	js/auth/oauth2.js	/^export class oauth2$/;"	c
+oauth2	js/libauth-runtime-modules.js	/^export class oauth2$/;"	c
+repository	js/auth/package.json	/^  "repository": {$/;"	o
+retrieve_key	js/libauth-runtime-modules.js	/^export function retrieve_key(data)$/;"	f
+scripts	js/auth/package.json	/^  "scripts": {$/;"	o
+setAuthServer	js/libauth-runtime-modules.js	/^      setAuthServer(T)$/;"	m	class:AuthSystem
+setDomain	js/libauth-runtime-modules.js	/^      setDomain(T)$/;"	m	class:AuthSystem
+setDomainLocation	js/libauth-runtime-modules.js	/^      setDomainLocation(T)$/;"	m	class:AuthSystem
+setHash	js/libauth-runtime-modules.js	/^      setHash(T)$/;"	m	class:AuthSystem
+setParent	js/libauth-runtime-modules.js	/^      setParent(T)$/;"	m	class:AuthSystem
+setUser	js/libauth-runtime-modules.js	/^      setUser(T)$/;"	m	class:AuthSystem
+set_enc_prsa	js/libauth-runtime-modules.js	/^      set_enc_prsa(T)$/;"	m	class:AuthSystem
+setpRSA	js/libauth-runtime-modules.js	/^      setpRSA(T)$/;"	m	class:AuthSystem
+test	js/auth/package.json	/^    "test": "echo \\"Error: no test specified\\" && exit 1"$/;"	s	object:scripts
+toFixedFix	js/demo/chart-area-demo.js	/^    toFixedFix = function(n, prec) {$/;"	f	function:number_format
+toFixedFix	js/demo/chart-bar-demo.js	/^    toFixedFix = function(n, prec) {$/;"	f	function:number_format
+type	js/auth/package.json	/^    "type": "git",$/;"	s	object:repository
+unlock_libauth	js/libauth-runtime-modules.js	/^export function unlock_libauth()$/;"	f
+unlock_oauth2	js/libauth-runtime-modules.js	/^export function unlock_oauth2()$/;"	f
+url	js/auth/package.json	/^    "url": "git+https:\/\/gitlab.com\/sexycoders\/auth.git"$/;"	s	object:repository
+url	js/auth/package.json	/^    "url": "https:\/\/gitlab.com\/sexycoders\/auth\/issues"$/;"	s	object:bugs
+version	js/auth/package.json	/^  "version": "1.5.0",$/;"	s
