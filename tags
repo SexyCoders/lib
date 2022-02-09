@@ -41,7 +41,6 @@ Sign	js/libauth-runtime-modules.js	/^export function Sign(data,key)$/;"	f
 author	js/auth/package.json	/^  "author": "Shane",$/;"	s
 broadcast	js/worker.js	/^var broadcast = function(clients, message) {$/;"	f
 bugs	js/auth/package.json	/^  "bugs": {$/;"	o
-callAddFont	utf8_font_for_printer/utf8_font-normal.js	/^var callAddFont = function () {$/;"	c
 clients	js/worker.js	/^var clients = new Array();$/;"	v
 constructor	js/auth/auth.js	/^    constructor(protocol)$/;"	m	class:AuthObject
 constructor	js/auth/libauth.js	/^    constructor()$/;"	m	class:libauth
@@ -53,7 +52,6 @@ ctx	js/demo/chart-bar-demo.js	/^var ctx = document.getElementById("myBarChart");
 ctx	js/demo/chart-pie-demo.js	/^var ctx = document.getElementById("myPieChart");$/;"	v
 dependencies	js/auth/package.json	/^  "dependencies": {$/;"	o
 description	js/auth/package.json	/^  "description": "Friendly wraper for use with oauth2 or libauth protocols.",$/;"	s
-font	utf8_font_for_printer/utf8_font-normal.js	/^var font = 'AAEAAAANADAAAwCAT1MvMvsLDL0AAATcAAAAVmNtYXAAnUqYAAAGYAAABDRjdnQgBaQEiAAABTwAAACaZnBn/;"	v
 handshake	js/libauth-runtime-modules.js	/^export function handshake(system)$/;"	f
 homepage	js/auth/package.json	/^  "homepage": "https:\/\/gitlab.com\/sexycoders\/auth#readme",$/;"	s
 init	js/libauth-runtime-modules.js	/^export default function init(){$/;"	f
